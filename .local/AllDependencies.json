@@ -899,9 +899,9 @@
     "restore": {
       "projectUniqueName": "Lesson 4 - Recording - Workflows",
       "projectName": "Lesson 4 - Recording - Workflows",
-      "projectPath": "F:\\study material\\RPA\\Lesson 4 - Recording - Workflows\\.local",
+      "projectPath": "C:\\Users\\Harshali\\Documents\\UiPath\\RPAPrac\\.local",
       "packagesPath": "C:\\Users\\Harshali\\.nuget\\packages\\",
-      "outputPath": "F:\\study material\\RPA\\Lesson 4 - Recording - Workflows\\.local"
+      "outputPath": "C:\\Users\\Harshali\\Documents\\UiPath\\RPAPrac\\.local"
     },
     "frameworks": {
       "net461": {
